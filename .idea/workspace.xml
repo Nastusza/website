@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43f29f9-bcc3-4ffa-b0c6-e718e1458f87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myfirstapp/templates/myfirstapp/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfirstapp/templates/myfirstapp/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfirstapp/static/css/kolor.css" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstapp/static/css/kolor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfirstapp/templates/myfirstapp/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstapp/templates/myfirstapp/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfirstapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfirstapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstapp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
